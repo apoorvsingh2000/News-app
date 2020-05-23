@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">T10 News</string>
+    <string name="default_author">Google News (India)</string>
+
+    <string name="sports">Sports</string>
+    <string name="headlines">Headlines</string>
+    <string name="business">Business</string>
+    <string name="health">Health</string>
+    <string name="global">Global</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="politics">Politics</string>
+    <string name="education">Education</string>
+    <string name="top_headlines">Top Headlines</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="by">Developed by: Apoorv Singh ( V I T )</string>
+</resources>
